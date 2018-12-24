@@ -1,0 +1,11 @@
+{
+  "name": "chosen_v1.2.0",
+  "version": "1.2.0",
+  "description": "Fork of https://github.com/harvesthq/chosen version 1.2.0",
+  "main": "chosen.jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
